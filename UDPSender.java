@@ -23,7 +23,7 @@ public class UDPSender {
 	         Scanner in;
 	         in = new Scanner (System.in);
 	         String message = null;
-                 DatagramSocket socket2 = new DatagramSocket( 1002 ) ;
+                 DatagramSocket socket2 = new DatagramSocket( 1003 ) ;
                  
 	         while (true)
 	         {
